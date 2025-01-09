@@ -21,6 +21,8 @@ nav {
 	justify-content: flex-end;
 	border-radius: 10px;
 	background: #181f33;
+    font-size: 55px;
+    color: #fff;
 }
 h1,
 p {

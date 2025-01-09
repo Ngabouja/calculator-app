@@ -12,5 +12,5 @@ const button9 = document.getElementById("9");
 console.log(button9.textContent);
 
 button7.addEventListener("click", () => {
-	resultElement.textContent = "coucou";
+	resultElement.textContent = "coucou"
 });
